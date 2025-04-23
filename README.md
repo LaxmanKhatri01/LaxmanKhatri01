@@ -1,6 +1,6 @@
 ## Hi there 👋
+My name is Laxman Khatri. ViscaBarcaViscaCatalunya!!
 
-<!--
 **LaxmanKhatri01/LaxmanKhatri01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
