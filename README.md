@@ -1,6 +1,12 @@
 ## Hi there 👋
 My name is Laxman Khatri. ViscaBarcaViscaCatalunya!!
 
+
+
+![image](https://github.com/user-attachments/assets/dd30fb87-ee77-4f45-b70d-161ab177aefc)
+
+
+<!--
 **LaxmanKhatri01/LaxmanKhatri01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
